@@ -7,7 +7,7 @@
   
 - 🌱 I’m currently learning **Data Structure**
 - 💬 Ask me about **React , Node and Express** 
-- 📫 How to reach me **siddhantgavai0@gmail.com**
+- 📫 How to reach me **siddhantgavai0@gmail.com**  
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=siddhant-gavai&theme=radical&no-frame=false&no-bg=true&margin-w=4)
