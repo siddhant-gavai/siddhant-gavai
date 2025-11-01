@@ -3,7 +3,7 @@
  
 <p align="left">  
   <img src="https://komarev.com/ghpvc/?username=siddhant-gavai&label=Profile%20views&color=0e75b6&style=flat" alt="siddhant-gavai" />        
-</p>    
+</p>         
   
 - 🌱 I’m currently learning **Data Structure**
 - 💬 Ask me about **React , Node and Express** 
