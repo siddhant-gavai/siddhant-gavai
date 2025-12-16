@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=siddhant-gavai&label=Profile%20views&color=0e75b6&style=flat" alt="siddhant-gavai" />        
 </p>         
   
-- 🌱 I’m currently learning **Data Structure**      
+- 🌱 I’m currently learning **Data Structure**       
 - 💬 Ask me about **React , Node and Express** 
 - 📫 How to reach me **siddhantgavai0@gmail.com**  
     
