@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siddhant Gavai</h1>
 <h3 align="center">A passionate MERN Stack Developer from India, building modern and scalable web applications.</h3>
- 
+        
 <p align="left">  
   <img src="https://komarev.com/ghpvc/?username=siddhant-gavai&label=Profile%20views&color=0e75b6&style=flat" alt="siddhant-gavai" />        
 </p>         
